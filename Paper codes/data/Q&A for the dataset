@@ -1,0 +1,4 @@
+ Q: Why there are 12000 SLM images but only 80000 speckle images? (Thanks Jawaria Maqbool for the question)
+ 
+ A: The first 80000 SLM images are related to first 80000 labels and speckle images. 
+ We have 120,000 SLM images simply because we took all the images from MNIST and fashion MNIST dataset, but in experiment we didn't use all of them.
